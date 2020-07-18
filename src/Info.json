@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name" : "Bruno Bernardino",
+    "email" : "me@brunobernardino.com",
+    "url" : "https://brunobernardino.com/"
+  },
+  "credits": {
+    "url": "https://www.brainyquote.com/topics/inspirational-quotes",
+    "name": "brainyquote.com"
+  },
+  "comments" : "Inspirational Quotes by BrainyQuote",
+  "rootDocument" : "index.html",
+  "type" : "html5",
+  "created" : "2020-07-12",
+  "identifier" : "InspirationalQuotes",
+  "version" : 1,
+  "modified" : "2020-07-12",
+  "name" : "InspirationalQuotes"
+}
